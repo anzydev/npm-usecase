@@ -1,0 +1,17 @@
+{
+  "name": "npm-usecase",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small example showing how to use file-character-countrrr.",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "file-character-countrrr": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
